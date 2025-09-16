@@ -1,1 +1,1 @@
-# brain_tumor_detection_through_segmentation
+# brain_tumor_detection_and_segmentation
